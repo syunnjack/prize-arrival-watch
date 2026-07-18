@@ -1,0 +1,7 @@
+# Prize Arrival Watch
+
+景品名、キャラ名、店舗名で入荷、在庫、再入荷を通知し、ゲームセンター掲載とEC送客へつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 入荷通知課金, 店舗掲載課金, ECアフィリエイト, 景品スポンサー, 動画広告
+Primary categories: 入荷, 在庫, 再入荷, フィギュア, ぬいぐるみ

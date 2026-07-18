@@ -8,7 +8,7 @@ Recommended repository name: `prize-arrival-watch`
 
 ## Domain candidates
 
-First candidate: `prizearrival.jp`
+Confirmed domain: `prizearrival.jp`
 
 Other candidates:
 
